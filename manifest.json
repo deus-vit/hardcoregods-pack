@@ -1,7 +1,22 @@
 {
   "version": "1.0.0",
-  "minecraft_version": "PENDIENTE",
-  "loader": "PENDIENTE",
-  "loader_version": "PENDIENTE",
-  "mods": []
+  "minecraft_version": "1.20.1",
+  "loader": "forge",
+  "loader_version": "47.3.0",
+  "mods": [
+    {
+      "name": "Mod de prueba A",
+      "filename": "mod-prueba-a-1.0.0.jar",
+      "url": "https://github.com/deus-vit/sovlauncher-pack/releases/download/v1.0.0/mod-prueba-a-1.0.0.jar",
+      "side": "both",
+      "sha256": "placeholder"
+    },
+    {
+      "name": "Mod de prueba B",
+      "filename": "mod-prueba-b-1.0.0.jar",
+      "url": "https://github.com/deus-vit/sovlauncher-pack/releases/download/v1.0.0/mod-prueba-b-1.0.0.jar",
+      "side": "client",
+      "sha256": "placeholder"
+    }
+  ]
 }
