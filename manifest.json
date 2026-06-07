@@ -1,5 +1,5 @@
 {
-  "version": "1.0.4",
+  "version": "1.0.5",
   "minecraft_version": "1.21.1",
   "loader": "fabric",
   "loader_version": "0.19.3",
@@ -543,6 +543,16 @@
       "path": "mods/defaultoptions-fabric-1.21.1-21.1.6.jar",
       "url": "https://github.com/deus-vit/hardcoregods-pack/releases/download/v1.0.2/mods__defaultoptions-fabric-1.21.1-21.1.6.jar",
       "sha256": "58ee72ca49b823de40d164296c9e790d1ef433561ad2dff0b50059136624f314"
+    },
+    {
+      "path": "config/defaultoptions/keybindings.txt",
+      "url": "https://github.com/deus-vit/hardcoregods-pack/releases/download/v1.0.5/config__defaultoptions__keybindings.txt",
+      "sha256": "806c947a27afc5269007f17034ac87ac93f3f792c1cb63df14df21b238a918ab"
+    },
+    {
+      "path": "config/defaultoptions/options.txt",
+      "url": "https://github.com/deus-vit/hardcoregods-pack/releases/download/v1.0.5/config__defaultoptions__options.txt",
+      "sha256": "02b0e4d35db7940270d038741c4b810cb49babfc6ac46ae099353c8965af5cc3"
     }
   ]
 }
