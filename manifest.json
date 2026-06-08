@@ -1,5 +1,5 @@
 {
-  "version": "1.0.7",
+  "version": "1.0.8",
   "minecraft_version": "1.21.1",
   "loader": "fabric",
   "loader_version": "0.19.3",
@@ -188,11 +188,6 @@
       "path": "config/structure_layout_optimizer.jsonc",
       "url": "https://github.com/deus-vit/hardcoregods-pack/releases/download/v1.0.1/config__structure_layout_optimizer.jsonc",
       "sha256": "5a9058652bc0b88b8810e0b94eba0e1a90cbff2472845c53a7e67442682a1579"
-    },
-    {
-      "path": "config/yacl.json5",
-      "url": "https://github.com/deus-vit/hardcoregods-pack/releases/download/v1.0.1/config__yacl.json5",
-      "sha256": "121b93764159be6fb7dab523b29a844e2bb78400ce8c48f52135a097e9b0006e"
     },
     {
       "path": "config/zoomify.json",
@@ -554,5 +549,6 @@
       "url": "https://github.com/deus-vit/hardcoregods-pack/releases/download/v1.0.7/mods__heartcore-1.0.0.jar",
       "sha256": "8f4dd7e4641d42a688c8dc8f4d7c6b3db1ae4b3d41be0208b408bb846c24b5ef"
     }
-  ]
+  ],
+  "pack_bytes": 81174033
 }
