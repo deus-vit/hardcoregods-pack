@@ -2550,7 +2550,7 @@
     },
     {
       "path": "mods/AmbientSounds_FABRIC_v6.3.3_mc1.21.1.jar",
-      "url": "https://github.com/deus-vit/hardcoregods-pack/releases/download/v0.0.9/mods__AmbientSounds_FABRIC_v6.3.3_mc1.21.1.jar",
+      "url": "https://github.com/deus-vit/hardcoregods-pack/releases/download/v1.0.1/mods__AmbientSounds_FABRIC_v6.3.3_mc1.21.1.jar",
       "sha256": "adaf0fda9b0b30fc97441e702e565eeeef3e88998f99eb0be43548382df7f907",
       "bytes": 84820039
     },
@@ -2628,7 +2628,7 @@
     },
     {
       "path": "mods/Oh-The-Biomes-Weve-Gone-Fabric-2.5.5.jar",
-      "url": "https://github.com/deus-vit/hardcoregods-pack/releases/download/v0.0.9/mods__Oh-The-Biomes-Weve-Gone-Fabric-2.5.5.jar",
+      "url": "https://github.com/deus-vit/hardcoregods-pack/releases/download/v1.0.1/mods__Oh-The-Biomes-Weve-Gone-Fabric-2.5.5.jar",
       "sha256": "f81c7b941f87bd038a7c9ef1743851328caf6e5ac8810bb95d565103c04ad697",
       "bytes": 20726949
     },
@@ -2982,7 +2982,7 @@
     },
     {
       "path": "mods/deeperdarker-fabric-1.21-1.3.3-plus-b.jar",
-      "url": "https://github.com/deus-vit/hardcoregods-pack/releases/download/v0.0.9/mods__deeperdarker-fabric-1.21-1.3.3-plus-b.jar",
+      "url": "https://github.com/deus-vit/hardcoregods-pack/releases/download/v1.0.1/mods__deeperdarker-fabric-1.21-1.3.3-plus-b.jar",
       "sha256": "d8b00ac7b28498785b46ca733687301113374c4520f1d5ad8bba0a7ae8041c1b",
       "bytes": 17977802
     },
@@ -3102,7 +3102,7 @@
     },
     {
       "path": "mods/fancymenu_fabric_3.9.1_MC_1.21.1.jar",
-      "url": "https://github.com/deus-vit/hardcoregods-pack/releases/download/v0.0.9/mods__fancymenu_fabric_3.9.1_MC_1.21.1.jar",
+      "url": "https://github.com/deus-vit/hardcoregods-pack/releases/download/v1.0.1/mods__fancymenu_fabric_3.9.1_MC_1.21.1.jar",
       "sha256": "be26b38f85cffe74764db8aecc5140f92a90450df675010269c9276d632cb143",
       "bytes": 25810747
     },
@@ -3228,7 +3228,7 @@
     },
     {
       "path": "mods/infinity-cave-0.7-fabric-1.21.1.jar",
-      "url": "https://github.com/deus-vit/hardcoregods-pack/releases/download/v0.0.9/mods__infinity-cave-0.7-fabric-1.21.1.jar",
+      "url": "https://github.com/deus-vit/hardcoregods-pack/releases/download/v1.0.1/mods__infinity-cave-0.7-fabric-1.21.1.jar",
       "sha256": "97ee6ee997147bbd43a80a7197987bee2492d31d1708cfcafecf6ff147e20242",
       "bytes": 7328121
     },
@@ -3402,7 +3402,7 @@
     },
     {
       "path": "mods/rechiseled-1.2.4-fabric-mc1.21.jar",
-      "url": "https://github.com/deus-vit/hardcoregods-pack/releases/download/v0.0.9/mods__rechiseled-1.2.4-fabric-mc1.21.jar",
+      "url": "https://github.com/deus-vit/hardcoregods-pack/releases/download/v1.0.1/mods__rechiseled-1.2.4-fabric-mc1.21.jar",
       "sha256": "621eb411d88470508a1f1ad6797e569510ca8a63e650728e615b8a65c377b773",
       "bytes": 11913849
     },
@@ -3456,7 +3456,7 @@
     },
     {
       "path": "mods/simplyswords-fabric-1.63.0-1.21.1.jar",
-      "url": "https://github.com/deus-vit/hardcoregods-pack/releases/download/v0.0.9/mods__simplyswords-fabric-1.63.0-1.21.1.jar",
+      "url": "https://github.com/deus-vit/hardcoregods-pack/releases/download/v1.0.1/mods__simplyswords-fabric-1.63.0-1.21.1.jar",
       "sha256": "1f60c6142f4060d171144de94e0c9b3dabed9e9e90a8105864318ad680ee6007",
       "bytes": 12592125
     },
@@ -3510,7 +3510,7 @@
     },
     {
       "path": "mods/supplementaries-fabric-1.21.1-3.6.7.jar",
-      "url": "https://github.com/deus-vit/hardcoregods-pack/releases/download/v0.0.9/mods__supplementaries-fabric-1.21.1-3.6.7.jar",
+      "url": "https://github.com/deus-vit/hardcoregods-pack/releases/download/v1.0.1/mods__supplementaries-fabric-1.21.1-3.6.7.jar",
       "sha256": "77dd8fc86bfe1d6466235f3258a6abff3ca97e418a87fde99511676164c935f6",
       "bytes": 13166422
     },
@@ -3588,7 +3588,7 @@
     },
     {
       "path": "mods/voxy-0.2.14-alpha.jar",
-      "url": "https://github.com/deus-vit/hardcoregods-pack/releases/download/v0.0.9/mods__voxy-0.2.14-alpha.jar",
+      "url": "https://github.com/deus-vit/hardcoregods-pack/releases/download/v1.0.1/mods__voxy-0.2.14-alpha.jar",
       "sha256": "6ae182da0d8624e6adaba4a58ccc8acad2111285b815b7fbc25dd93e564d21ba",
       "bytes": 12598300
     },
@@ -3618,7 +3618,7 @@
     },
     {
       "path": "mods/the_bumblezone-7.14.1+1.21.1-fabric.jar",
-      "url": "https://github.com/deus-vit/hardcoregods-pack/releases/download/v0.0.9/mods__the_bumblezone-7.14.1_1.21.1-fabric.jar",
+      "url": "https://github.com/deus-vit/hardcoregods-pack/releases/download/v1.0.1/mods__the_bumblezone-7.14.1_1.21.1-fabric.jar",
       "sha256": "a99037db387f54ac002d4d3128d4bd273ad11d4f93386da29b1de6bb72cc6861",
       "bytes": 69590004
     },
